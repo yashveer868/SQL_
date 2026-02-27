@@ -13,6 +13,8 @@ It includes queries, sample databases, and practice problems that helped me unde
 - **Database Design**: Creating tables, primary keys, foreign keys
 - **Data Manipulation**: INSERT, UPDATE, DELETE
 
+- HEYYYY
+
 ---
 
 ## 🛠️ Tech Stack
