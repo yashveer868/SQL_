@@ -1,4 +1,4 @@
-﻿DATA SET OF ZEPTO 
+﻿DATASET OF ZEPTO 
 
 Category,name,mrp,discountPercent,availableQuantity,discountedSellingPrice,weightInGms,outOfStock,quantity
 Fruits & Vegetables,Onion,2500,16,3,2100,1000,FALSE,1
